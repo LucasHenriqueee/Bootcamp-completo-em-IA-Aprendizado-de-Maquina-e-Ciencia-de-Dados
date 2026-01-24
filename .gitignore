@@ -1,0 +1,109 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# Jupyter Lab
+.jupyter/
+.jupyterlab/
+
+# =========================
+# Dados (Machine Learning)
+# =========================
+# Dados brutos e processados
+datasets/raw/
+datasets/processed/
+
+# Arquivos de dados comuns
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.parquet
+*.h5
+*.hdf5
+*.feather
+
+# =========================
+# Modelos treinados
+# =========================
+# Scikit-learn / Pickle
+*.pkl
+*.joblib
+
+# TensorFlow / Keras
+*.h5
+*.keras
+saved_models/
+checkpoints/
+
+# PyTorch
+*.pt
+*.pth
+
+# =========================
+# Logs e outputs
+# =========================
+logs/
+*.log
+
+# Resultados experimentais
+outputs/
+results/
+figures/
+
+# =========================
+# Ferramentas de ML
+# =========================
+# MLflow
+mlruns/
+
+# TensorBoard
+runs/
+tensorboard/
+
+# =========================
+# IDEs e editores
+# =========================
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# =========================
+# Sistema operacional
+# =========================
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# =========================
+# Outros
+# =========================
+# Arquivos temporários
+tmp/
+temp/
+
+# Arquivos de configuração local
+.env
+.env.*
