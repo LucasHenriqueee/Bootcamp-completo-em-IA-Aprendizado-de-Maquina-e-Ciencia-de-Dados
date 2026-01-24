@@ -1,4 +1,4 @@
-# Bootcamp-completo-em-IA-Aprendizado-de-M-quina-e-Ci-ncia-de-Dados-
+# Bootcamp completo em IA Aprendizado de Máquina e Ciência de Dados
 Repositório com materias básicos de estudos em Machine Learning.
 
 # 📊 Estudos em Machine Learning e Ciência de Dados
